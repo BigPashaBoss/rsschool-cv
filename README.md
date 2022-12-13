@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/BigPashaBoss/rsschool-cv/blob/gh-pages/cv.md
